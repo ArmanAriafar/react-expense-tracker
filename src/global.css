@@ -1,0 +1,18 @@
+.BgBlue {
+    background-image: linear-gradient(280deg, #0ea5e9 0%, #7dd3fc 100%);
+    box-shadow: 0px 0px 25px #7bd2fb;
+}
+
+.BgGreen {
+    background: linear-gradient(284.04deg, #34d399 0%, #a7f3d0 100%);
+    box-shadow: 0px 15px 20px rgba(110, 231, 183, 0.6);
+}
+
+.BgRed {
+    background: linear-gradient(284.04deg, #fb7185 0%, #fecdd3 100%);
+    box-shadow: 0px 15px 20px rgba(244, 63, 94, 0.3);
+}
+
+.WalletShadow {
+    box-shadow: 0px 15px 20px rgba(14, 165, 233, 0.4);
+}

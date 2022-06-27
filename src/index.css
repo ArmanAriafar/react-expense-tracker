@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "IRANYekan";
+    font-weight: 500;
+    src: url("./assets/IRANYekan/IRANYekanWebMedium.woff2") format("woff2");
+}
+@font-face {
+    font-family: "IRANYekan";
+    font-weight: 100;
+    src: url("./assets/IRANYekan/IRANYekanWebExtraBlack.woff2") format("woff2");
+}
+@font-face {
+    font-family: "IRANYekan";
+    font-weight: 900;
+    src: url("./assets/IRANYekan/IRANYekanWebBlack.woff2") format("woff2");
+}
+@font-face {
+    font-family: "IRANYekan";
+    font-weight: 800;
+    src: url("./assets/IRANYekan/IRANYekanWebExtraBold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "IRANYekan";
+    font-weight: 700;
+    src: url("./assets/IRANYekan/IRANYekanWebBold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "IRANYekan";
+    font-weight: 400;
+    src: url("./assets/IRANYekan/IRANYekanWebRegular.woff2") format("woff2");
+}
+@font-face {
+    font-family: "IRANYekan";
+    font-weight: 300;
+    src: url("./assets/IRANYekan/IRANYekanWebLight.woff2") format("woff2");
+}
+@font-face {
+    font-family: "IRANYekan";
+    font-weight: 200;
+    src: url("./assets/IRANYekan/IRANYekanWebThin.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "IRANYekanFaNum";
+    font-weight: 500;
+    src: url("./assets/IRANYekanFaNum/iranyekanwebmediumfanum.woff") format("woff");
+}
